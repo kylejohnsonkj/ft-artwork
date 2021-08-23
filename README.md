@@ -11,7 +11,7 @@ Files go in `C:\Users\<username>\Documents\Rainmeter\Skins\monstercat-visualizer
 * also compatible with Spotify and other visualizer supported music players
 
 ![pi screenshot](screenshot.png)
-
+![matrix screenshot](https://i.imgur.com/YwgyrJU.jpeg)
 
 If you have modified the skin already and just want the changes to Cover.ini, here you go!
 
