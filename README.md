@@ -31,3 +31,13 @@ If you have modified the skin already or just want the changes to Cover.ini, her
 `OutputType=ANSI` \
 `DynamicVariables=1` \
 `FinishAction=[!CommandMeasure MeasureUpdateArt "Run"]`
+
+---
+
+#### Edit: April 15, 2022
+
+My album art display has been updated many times since this original posting. After programming the Rainmeter approach myself, I discovered that there are tons of existing projects that bond music and matrices!
+
+For Apple Music users, I would recommend the following project: https://github.com/idcrook/shairport-sync-mqtt-display. Using the development branch of shairport-sync, you can make your matrix an AirPlay 2 destination, and select it alongside your speakers! I used this configuration for months and loved it.
+
+For Spotify users, I would recommend thirtytwopixels: https://github.com/fspoettel/thirtytwopixels. Or should I say, sixtyfour? I recently became a Spotify user and was desperate to keep my matrix alive. There were tons of similar projects, but this was the simplest for me to set up, and I've been using it to this day!
